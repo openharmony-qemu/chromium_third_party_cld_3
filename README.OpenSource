@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "cld_3",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
+        "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
+        "Owner": "liujixin@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/cld_3.git@576305689d23da93e2f5e04a3de5afbe60d339da",
+        "Description": "第三方软件cld,紧凑型语言检测器"
+    }
+]
